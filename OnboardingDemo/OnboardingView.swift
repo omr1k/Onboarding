@@ -62,12 +62,12 @@ struct OnboardingView: View {
     private func nextButton() -> some View {
         return Button {
             if currentTab < tabs.count - 1 {
-                print("befor \(currentTab)")
+                
                 currentTab += 1
-                print("after \(currentTab)")
+                
             } else {
                 onDismiss()
-                print("befor \(currentTab)")
+               
                 
             }
         } label: {
