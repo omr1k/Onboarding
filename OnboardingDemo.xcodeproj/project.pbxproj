@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		26A83C91298A8CA2006DB7E0 /* on2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A83C90298A8CA2006DB7E0 /* on2.swift */; };
 		86049E102985AA6A00E41A15 /* OnboardingDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86049E0F2985AA6A00E41A15 /* OnboardingDemoApp.swift */; };
 		86049E142985AA6B00E41A15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86049E132985AA6B00E41A15 /* Assets.xcassets */; };
 		86049E172985AA6B00E41A15 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86049E162985AA6B00E41A15 /* Preview Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		26A83C90298A8CA2006DB7E0 /* on2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = on2.swift; sourceTree = "<group>"; };
 		86049E0C2985AA6A00E41A15 /* OnboardingDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnboardingDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86049E0F2985AA6A00E41A15 /* OnboardingDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingDemoApp.swift; sourceTree = "<group>"; };
 		86049E132985AA6B00E41A15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				86049E0F2985AA6A00E41A15 /* OnboardingDemoApp.swift */,
 				86049E212985AAA200E41A15 /* ImageExt.swift */,
 				86049E1D2985AA8700E41A15 /* OnboardingView.swift */,
+				26A83C90298A8CA2006DB7E0 /* on2.swift */,
 				86049E1F2985AA8C00E41A15 /* OnboardingItem.swift */,
 				86049E132985AA6B00E41A15 /* Assets.xcassets */,
 				86049E152985AA6B00E41A15 /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				86049E1E2985AA8700E41A15 /* OnboardingView.swift in Sources */,
+				26A83C91298A8CA2006DB7E0 /* on2.swift in Sources */,
 				86049E222985AAA200E41A15 /* ImageExt.swift in Sources */,
 				86049E202985AA8C00E41A15 /* OnboardingItem.swift in Sources */,
 				86049E102985AA6A00E41A15 /* OnboardingDemoApp.swift in Sources */,
